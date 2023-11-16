@@ -3,7 +3,7 @@
 
 <table>
 
-**In this Project we will be using Spark SQL to create a dataframe instead of RDD. Here we will create dataframe directly from read.option instead of creating manually through RDD.We will be performing various SQL operations on the dataframe.**
+**In this Project we will be using Spark SQL to create a dataframe instead of RDD. Here we will create dataframe directly from read.option function instead of creating manually through RDD. We will be performing various SQL operations on the dataframe.**
 
 **Before diving into the project let's get to know about Spark**...<br></br>
 
